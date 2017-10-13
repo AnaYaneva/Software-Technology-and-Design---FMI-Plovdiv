@@ -1,0 +1,38 @@
+﻿@* ASSIGNMENTS *@
+
+@*@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}*@
+
+@model List<AssignmentManager.Entities.Assignment>
+
+<h2 class="pull-left">@ViewBag.StdGroup1</h2>
+<a href="/Assignment/Create" class="btn btn-info pull-right" style="margin-top:20px">Insert</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Created At</th>
+            <th>Updated At</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var assignment in Model)
+        {
+            <tr>
+                <td>@assignment.Title</td>
+                <td>@assignment.Description</td>
+                <td>@assignment.CreatedAt.ToString("dd/MM/yy")</td>
+                <td>@assignment.UpdatedAt.ToString("dd/MM/yy")</td>
+                <td><a href="/Assignment/Update/@assignment.Id" class="btn btn-default">Update</a>
+                    <a href="/Assignment/Delete/@assignment.Id" class="btn btn-danger">Delete</a>
+                    <a href="/Comment/Index/@assignment.Id" class="btn btn-info">Comments</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,17 @@
+C:\Users\fmi\Desktop\Intro\ListPractice\bin\Debug\ListPractice.exe.config
+C:\Users\fmi\Desktop\Intro\ListPractice\bin\Debug\ListPractice.exe
+C:\Users\fmi\Desktop\Intro\ListPractice\bin\Debug\ListPractice.pdb
+C:\Users\fmi\Desktop\Intro\ListPractice\obj\Debug\ListPractice.Form1.resources
+C:\Users\fmi\Desktop\Intro\ListPractice\obj\Debug\ListPractice.Properties.Resources.resources
+C:\Users\fmi\Desktop\Intro\ListPractice\obj\Debug\ListPractice.csproj.GenerateResource.Cache
+C:\Users\fmi\Desktop\Intro\ListPractice\obj\Debug\ListPractice.exe
+C:\Users\fmi\Desktop\Intro\ListPractice\obj\Debug\ListPractice.pdb
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\ListPractice\bin\Debug\ListPractice.exe.config
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\ListPractice\obj\Debug\ListPractice.exe
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\ListPractice\obj\Debug\ListPractice.pdb
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\ListPractice\bin\Debug\ListPractice.exe
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\ListPractice\bin\Debug\ListPractice.pdb
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\ListPractice\obj\Debug\ListPractice.csprojResolveAssemblyReference.cache
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\ListPractice\obj\Debug\ListPractice.Form1.resources
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\ListPractice\obj\Debug\ListPractice.Properties.Resources.resources
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\ListPractice\obj\Debug\ListPractice.csproj.GenerateResource.Cache

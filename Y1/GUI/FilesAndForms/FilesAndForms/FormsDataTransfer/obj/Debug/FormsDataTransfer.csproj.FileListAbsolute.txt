@@ -1,0 +1,22 @@
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FormsDataTransfer\bin\Debug\FormsDataTransfer.exe.config
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FormsDataTransfer\bin\Debug\FormsDataTransfer.exe
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FormsDataTransfer\bin\Debug\FormsDataTransfer.pdb
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.csprojResolveAssemblyReference.cache
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.FormAdd.resources
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.FormMain.resources
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.Properties.Resources.resources
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.csproj.GenerateResource.Cache
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.exe
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.pdb
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.FormEdit.resources
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FormsDataTransfer\bin\Debug\FormsDataTransfer.exe.config
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.exe
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.pdb
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FormsDataTransfer\bin\Debug\FormsDataTransfer.exe
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FormsDataTransfer\bin\Debug\FormsDataTransfer.pdb
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.csprojResolveAssemblyReference.cache
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.FormAdd.resources
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.FormEdit.resources
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.FormMain.resources
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.Properties.Resources.resources
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FormsDataTransfer\obj\Debug\FormsDataTransfer.csproj.GenerateResource.Cache

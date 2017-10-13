@@ -1,0 +1,18 @@
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Calculator\bin\Debug\Calculator.exe.config
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Calculator\bin\Debug\Calculator.exe
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Calculator\bin\Debug\Calculator.pdb
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Calculator\obj\Debug\Calculator.exe
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Calculator\obj\Debug\Calculator.pdb
+C:\Users\fmi\Desktop\Intro\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\fmi\Desktop\Intro\Calculator\obj\Debug\Calculator.exe
+C:\Users\fmi\Desktop\Intro\Calculator\obj\Debug\Calculator.pdb
+C:\Users\fmi\Desktop\Intro\Calculator\bin\Debug\Calculator.exe
+C:\Users\fmi\Desktop\Intro\Calculator\bin\Debug\Calculator.pdb
+C:\Users\fmi\Desktop\Intro\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\fmi\Desktop\Intro\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\fmi\Desktop\Intro\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\fmi\Desktop\Intro\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache

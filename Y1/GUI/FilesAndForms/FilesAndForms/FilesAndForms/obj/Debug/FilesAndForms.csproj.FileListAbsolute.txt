@@ -1,0 +1,18 @@
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FilesAndForms\bin\Debug\FilesAndForms.exe.config
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FilesAndForms\bin\Debug\FilesAndForms.exe
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FilesAndForms\bin\Debug\FilesAndForms.pdb
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.csprojResolveAssemblyReference.cache
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.Form1.resources
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.Properties.Resources.resources
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.csproj.GenerateResource.Cache
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.exe
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.pdb
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FilesAndForms\bin\Debug\FilesAndForms.exe.config
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.exe
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.pdb
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FilesAndForms\bin\Debug\FilesAndForms.exe
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FilesAndForms\bin\Debug\FilesAndForms.pdb
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.csprojResolveAssemblyReference.cache
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.Form1.resources
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.Properties.Resources.resources
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\FilesAndForms\obj\Debug\FilesAndForms.csproj.GenerateResource.Cache

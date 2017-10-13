@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<script type="text/javascript" scr="formscript.js"></script>
+	<link rel="stylesheet" type="text/css" href="normalize.css">
+	<link rel="stylesheet" type="text/css" href="stylesz.css">
+</head>
+<body>
+<section>
+	<form id="formID" name="myform" action="" method="post" class="elegant-aero">
+		<h1>Contact Form
+			<div id="fontsz">
+				<span>Font size:</span>
+				<span class="access" id="fontOne" onclick="fontSizeDown()">A</span>
+				<span class="access" id="fontTwo" onclick="fontSizeUp()">A</span>
+			</div>
+		</h1>
+
+		<label>
+			<span>Your Email:</span>
+			<input id="email" type="email" name="email" placeholder="Valid Email Address"/>
+		</label>
+
+		<label>
+			<span>Message:</span>
+			<textarea id="message" name="message" placeholder="Your Message to Us"></textarea>
+		</label>
+
+		<label>
+			<span>Subject:</span>
+			<select name="selection">
+				<option value="Job Inquiry">Job Inquiry</option>
+				<option value="General Question">General Question</option>
+			</select>
+		</label>
+
+		<label>
+			<span>&nbsp;</span>
+			<input type="button" onclick="myFunction()" class="button" value="Send"/>
+		</label>
+		<div>
+			<p id="mes">Message:</p>
+		</div>
+	</form>
+</section>
+</body>
+</html>

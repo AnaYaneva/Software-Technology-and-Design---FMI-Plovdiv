@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form Validation</title>
+	
+	<meta content="noindex, nofollow" name="robots">
+	
+	<link rel="stylesheet" type="text/css" href="normalize.css">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	
+	<script src="formvalid.js"></script>
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</head>
+<body>
+	<div id="form_layout">
+	<h2>JS form validation</h2>
+
+	<form  onsubmit='return formValidation()'>
+		<p id="head"></p>
+		<label>Full Name:</label>
+		<input id="firstname" type="text" >
+		<p id="p1"></p>
+
+		<label>Username(6-8 chars):</label>
+		<input id="username" type="text" >
+		<p id="p2"></p>
+
+		<label>Email:</label>
+		<input id="email" type="text" >
+		<p id="p3"></p>
+
+		<label>State:</label>
+		<select id="state">
+			<option>
+				Please Choose
+			</option>
+			<option>
+				America
+			</option>
+			<option>
+				Australia
+			</option>
+			<option>
+				Sweden
+			</option>
+			<option>
+				Africa
+			</option>
+		</select>
+		<p id="p4"></p>
+
+		<label>Address:</label>
+		<input id="addr" type="text">
+		<p id="p5"></p>
+
+		<label>Zip code:</label>
+		<input id="zip" type="text">
+		<p id="p6"></p>
+		<input id="submit" type="submit" value="Check Form">
+	</form>
+</div>
+</body>
+</html>

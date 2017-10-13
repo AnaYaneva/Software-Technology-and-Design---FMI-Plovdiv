@@ -1,0 +1,61 @@
+.center{
+	margin: 0 auto;
+	width: 80%;
+}
+
+.center #fontf{
+	font: 1em sans-serif;
+	font-size: 2em;
+	text-align: center;
+}
+
+.topspace{
+	margin-top: 80px;
+}
+
+#regform{
+	margin:0 auto;
+	width: 500px;
+	background-color: #faffe8;
+	font: 1em sans-serif;
+	padding: 1em;
+	border: 1px solid #ccc;
+	border-radius: 1em;
+}
+
+#regform div + .formfield{
+	margin-top: 1em;
+}
+
+/*ednakva shirina na labels*/
+.labelview{
+	display: inline-block;
+	width: 90px;
+	text-align: right;
+}
+
+/*ednakva shirina na poletata*/
+.textfield{
+	width: 300px;
+	-moz-box-sizing:border-box;
+	box-sizing: border-box;
+	border:1px oli #999;
+	margin-left:  .5em;
+	resize: none;
+	border-radius: 3px;
+}
+
+input:focus, textarea:focus{
+	border-color: #000;
+	background-color:#ccc; 
+}
+
+textarea{
+	vertical-align: top;
+}
+
+.button{
+	padding-left: 93px;
+	margin-left: 0.5em;
+
+}

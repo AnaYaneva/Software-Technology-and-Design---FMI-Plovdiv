@@ -1,0 +1,12 @@
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\ReadWriteFile\bin\Debug\ReadWriteFile.exe.config
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\ReadWriteFile\bin\Debug\ReadWriteFile.exe
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\ReadWriteFile\bin\Debug\ReadWriteFile.pdb
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\ReadWriteFile\obj\Debug\ReadWriteFile.csprojResolveAssemblyReference.cache
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\ReadWriteFile\obj\Debug\ReadWriteFile.Form1.resources
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\ReadWriteFile\obj\Debug\ReadWriteFile.Properties.Resources.resources
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\ReadWriteFile\obj\Debug\ReadWriteFile.csproj.GenerateResource.Cache
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\ReadWriteFile\obj\Debug\ReadWriteFile.exe
+c:\users\fmi\documents\visual studio 2015\Projects\FilesAndForms\ReadWriteFile\obj\Debug\ReadWriteFile.pdb
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\ReadWriteFile\bin\Debug\ReadWriteFile.exe.config
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\ReadWriteFile\obj\Debug\ReadWriteFile.exe
+D:\STD\1\2\GUI\FilesAndForms\FilesAndForms\ReadWriteFile\obj\Debug\ReadWriteFile.pdb

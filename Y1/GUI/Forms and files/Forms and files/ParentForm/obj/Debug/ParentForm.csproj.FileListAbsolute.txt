@@ -1,0 +1,11 @@
+c:\users\fmi\documents\visual studio 2015\Projects\Forms and files\ParentForm\bin\Debug\ParentForm.exe.config
+c:\users\fmi\documents\visual studio 2015\Projects\Forms and files\ParentForm\bin\Debug\ParentForm.exe
+c:\users\fmi\documents\visual studio 2015\Projects\Forms and files\ParentForm\bin\Debug\ParentForm.pdb
+c:\users\fmi\documents\visual studio 2015\Projects\Forms and files\ParentForm\obj\Debug\ParentForm.FormParent.resources
+c:\users\fmi\documents\visual studio 2015\Projects\Forms and files\ParentForm\obj\Debug\ParentForm.Properties.Resources.resources
+c:\users\fmi\documents\visual studio 2015\Projects\Forms and files\ParentForm\obj\Debug\ParentForm.csproj.GenerateResource.Cache
+c:\users\fmi\documents\visual studio 2015\Projects\Forms and files\ParentForm\obj\Debug\ParentForm.exe
+c:\users\fmi\documents\visual studio 2015\Projects\Forms and files\ParentForm\obj\Debug\ParentForm.pdb
+D:\STD\1\2\GUI\Forms and files\Forms and files\ParentForm\bin\Debug\ParentForm.exe.config
+D:\STD\1\2\GUI\Forms and files\Forms and files\ParentForm\obj\Debug\ParentForm.exe
+D:\STD\1\2\GUI\Forms and files\Forms and files\ParentForm\obj\Debug\ParentForm.pdb

@@ -1,0 +1,11 @@
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\SlideShow\bin\Debug\SlideShow.exe.config
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\SlideShow\bin\Debug\SlideShow.exe
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\SlideShow\bin\Debug\SlideShow.pdb
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\SlideShow\obj\Debug\SlideShow.Form1.resources
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\SlideShow\obj\Debug\SlideShow.exe
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\SlideShow\obj\Debug\SlideShow.pdb
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\SlideShow\bin\Debug\SlideShow.exe.config
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\SlideShow\obj\Debug\SlideShow.exe
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\SlideShow\obj\Debug\SlideShow.pdb

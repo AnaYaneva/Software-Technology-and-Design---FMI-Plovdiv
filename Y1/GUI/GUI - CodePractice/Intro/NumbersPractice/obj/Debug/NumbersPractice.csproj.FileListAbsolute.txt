@@ -1,0 +1,18 @@
+C:\Users\fmi\Desktop\Intro\NumbersPractice\bin\Debug\NumbersPractice.exe.config
+C:\Users\fmi\Desktop\Intro\NumbersPractice\bin\Debug\NumbersPractice.exe
+C:\Users\fmi\Desktop\Intro\NumbersPractice\bin\Debug\NumbersPractice.pdb
+C:\Users\fmi\Desktop\Intro\NumbersPractice\obj\Debug\NumbersPractice.Form1.resources
+C:\Users\fmi\Desktop\Intro\NumbersPractice\obj\Debug\NumbersPractice.Properties.Resources.resources
+C:\Users\fmi\Desktop\Intro\NumbersPractice\obj\Debug\NumbersPractice.csproj.GenerateResource.Cache
+C:\Users\fmi\Desktop\Intro\NumbersPractice\obj\Debug\NumbersPractice.exe
+C:\Users\fmi\Desktop\Intro\NumbersPractice\obj\Debug\NumbersPractice.pdb
+C:\Users\fmi\Desktop\Intro\NumbersPractice\obj\Debug\NumbersPractice.csprojResolveAssemblyReference.cache
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\NumbersPractice\bin\Debug\NumbersPractice.exe.config
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\NumbersPractice\obj\Debug\NumbersPractice.exe
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\NumbersPractice\obj\Debug\NumbersPractice.pdb
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\NumbersPractice\bin\Debug\NumbersPractice.exe
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\NumbersPractice\bin\Debug\NumbersPractice.pdb
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\NumbersPractice\obj\Debug\NumbersPractice.csprojResolveAssemblyReference.cache
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\NumbersPractice\obj\Debug\NumbersPractice.Form1.resources
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\NumbersPractice\obj\Debug\NumbersPractice.Properties.Resources.resources
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\NumbersPractice\obj\Debug\NumbersPractice.csproj.GenerateResource.Cache

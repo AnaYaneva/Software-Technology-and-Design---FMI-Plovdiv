@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register Form</title>
+
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="scripts/validations.js"></script>
+
+</head>
+<body>
+<h1>Contact Form</h1>
+
+<form method="post" enctype="multipart/form-data" onsubmit='return formValidation()'>
+    <div class="main-contact">
+
+        <div class="form-group">
+
+            <p>First Name <span>*</span></p>
+            <label class="icon-case" for="name"><i class="fa fa-user"></i></label>
+            <input type="text" name="name" id="name" required/>
+            <p class="notification" id="name-not-length"></p>
+            <p class="notification" id="name-not"></p>
+        </div>
+
+        <div class="form-group">
+
+            <p>Last Name<span>*</span></p>
+            <label class="icon-case" for="lastname"><i class="fa fa-male"></i></label>
+            <input type="text" name="lastname" id="lastname" required/>
+            <p class="notification" id="lastname-not-length"></p>
+            <p class="notification" id="lastname-not"></p>
+
+        </div>
+
+        <div class="form-group">
+
+            <p>E-mail <span>*</span></p>
+            <label class="icon-case" for="email"><i class="fa fa-envelope-o"></i></label>
+            <input type="email" name="email" id="email" required/>
+            <p class="notification" id="email-not"></p>
+
+        </div>
+
+        <div class="form-group">
+
+            <p>Password <span>*</span></p>
+            <label class="icon-case" for="password"><i class="fa fa-asterisk"></i></label>
+            <input type="password" name="password" id="password" required/>
+            <p class="notification" id="password-not-length"></p>
+            <p class="notification" id="password-not"></p>
+
+        </div>
+
+        <!--<div class="form-group">
+
+           <p>Repeat Password <span>*</span></p>
+           <label class="icon-case" for="repeatpass"><i class="fa fa-asterisk"></i></label>
+           <input type="password" name="repeatpass" id="repeatpass" required/>
+           <p class="notification" id="repeatpass-not"></p>
+
+       </div>-->
+
+        <div clform-group
+        ">
+
+        <p>Postcode <span>*</span></p>
+        <label class="icon-case" for="postal"><i class="fa fa-map-marker"></i></label>
+        <input type="text" name="postal" id="postal" required/>
+        <p class="notification" id="postcode-not-length"></p>
+        <p class="notification" id="postcode-not"></p>
+
+    </div>
+
+    <div class="form-group">
+
+        <p>City <span>*</span></p>
+        <label class="icon-case" for="city"><i class="fa fa-building-o"></i></label>
+        <select name="cars" id="city" required>
+            <option value="">Please choose...</option>
+            <option value="sofia">Sofia</option>
+            <option value="plovdiv">Plovdiv</option>
+            <option value="varna">Varna</option>
+            <option value="other">Other</option>
+        </select>
+        <p class="notification" id="city-not"></p>
+
+    </div>
+
+    <div class="form-group">
+
+        <p>Phone number <span>*</span></p>
+        <label class="icon-case" for="phone"><i class="fa fa-phone"></i></label>
+        <input type="text" name="phone" id="phone" required/>
+        <p class="notification" id="phone-not-length"></p>
+        <p class="notification" id="phone-not"></p>
+
+    </div>
+
+
+    <div class="form-group">
+
+        <p>Birthday <span>*</span></p>
+        <label class="icon-case" for="bday"><i class="fa fa-birthday-cake"></i></label>
+        <input type="date" name="bday" id="bday" required/>
+        <p class="notification" id="bday-not"></p>
+
+    </div>
+
+    </div>
+    <button type="submit" class="button-contact">Submit</button>
+
+    <button type="reset" class="button-contact">Reset</button>
+</form>
+
+</body>
+</html>

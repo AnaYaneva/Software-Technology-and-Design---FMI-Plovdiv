@@ -1,0 +1,30 @@
+﻿@model AssignmentManager.Entities.Assignment
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using(Html.BeginForm("Create", "Assignment"))
+{
+    <div class="container">
+        <div class="form-group row">
+            <div class="col-md-3">
+                @Html.LabelFor(model=>model.Title)
+                @Html.TextBoxFor(model => model.Title, new { @class="form-control"})
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.Description)
+                @Html.TextAreaFor(model => model.Description, new { @class = "form-control" , @rows="5"})
+            </div>
+        </div>
+
+        <div>
+            <input type="submit" value="Create" class="btn btn-success"/>
+        </div>
+    </div>
+}
+

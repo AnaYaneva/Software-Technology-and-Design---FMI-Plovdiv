@@ -1,0 +1,11 @@
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Options\bin\Debug\Options.exe.config
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Options\bin\Debug\Options.exe
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Options\bin\Debug\Options.pdb
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Options\obj\Debug\Options.Form1.resources
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Options\obj\Debug\Options.Properties.Resources.resources
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Options\obj\Debug\Options.csproj.GenerateResource.Cache
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Options\obj\Debug\Options.exe
+c:\users\fmi\documents\visual studio 2015\Projects\Intro\Options\obj\Debug\Options.pdb
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\Options\bin\Debug\Options.exe.config
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\Options\obj\Debug\Options.exe
+D:\STD\1\2\GUI\GUI - CodePractice\Intro\Options\obj\Debug\Options.pdb
